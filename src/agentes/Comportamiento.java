@@ -7,7 +7,7 @@ package agentes;
 import jade.core.behaviours.Behaviour;
 /**
  *
- * @author Gera
+ * @author AaronRamos
  */
 public class Comportamiento extends Behaviour{    
      public void action(){

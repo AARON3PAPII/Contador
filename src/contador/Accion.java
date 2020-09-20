@@ -7,7 +7,7 @@ package contador;
 import jade.core.behaviours.Behaviour;
 /**
  *
- * @author Gera
+ * @author AaronRamos
  */
 public class Accion extends Behaviour{
     private int cont=0;

@@ -7,7 +7,7 @@ package agentes;
 import jade.core.Agent;
 /**
  *
- * @author Gera
+ * @author AaronRamos
  */
 public class Agente extends Agent{
     @Override

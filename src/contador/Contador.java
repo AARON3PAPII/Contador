@@ -7,7 +7,7 @@ package contador;
 import jade.core.Agent;
 /**
  *
- * @author Gera
+ * @author AaronRamos
  */
 public class Contador extends Agent{
     @Override
